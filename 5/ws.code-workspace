@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+   ],
+   "settings": {
+      "psi-header.variables": [
+         ["project", "Prac 5"]
+      ]
+   }
+}
